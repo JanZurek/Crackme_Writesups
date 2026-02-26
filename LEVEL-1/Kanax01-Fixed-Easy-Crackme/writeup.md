@@ -35,10 +35,11 @@ Po wpisaniu albo wyświetla komunikat o sukcesie, albo zamyka się / wyświetla 
 Kluczowy fragment który zawiera warunek sukcesu (dekompilacja Ghidry):
 
 ```
-if ( local_28 == DAI_1400050c8 &&
-     memcmp(ppppuVar5, pcVar6, local_28) == 0 )
-{
-    pcVar6 = "Congrats!!! You Cracked The Code";
-    // ... wyświetlanie gratulacji ...
+if ((local_28 == DAT_1400050b8) &&
+   ((Local_28 == 0 || (iVar4 = memcmp(ppppuVar5,pcVar6,local_28), iVar4 == 0))) {
+   pcVar6 = "\n Congrats!!! You Cracked The Code";
+}
+Else {
+pcVar6 = "\n Wrong Password, Please Try Again";
 }
 ```
