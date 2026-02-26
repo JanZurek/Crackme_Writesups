@@ -41,7 +41,7 @@ Po błędnym → komunikat błędu i prośba o ponowną próbę.
 
    <img width="395" height="13" alt="EasyPassword w Defined Strings" src="https://github.com/user-attachments/assets/9b16a032-7755-48f9-bf18-f4d66ade9fad" />
 
-4. Szybko sprawdziłem, czy "EasyPassword" jest używany jako komunikat → nie był (brak xrefów do wyświetlania).
+4. Szybko sprawdziłem, czy "EasyPassword" jest używany jako komunikat.
 
 5. Wpisałem hasło **EasyPassword** → sukces:
 
