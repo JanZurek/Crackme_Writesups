@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Reverse%20Engineering-Ghidra-blue?logo=ghidra" alt="Ghidra">
-  <img src="https://img.shields.io/badge/Tools-x64dbg%20%7C%20Cutter%20%7C%20Radare2-orange" alt="Tools">
   <img src="https://img.shields.io/github/last-commit/TwojNick/Crackme-Writeups?color=green" alt="Last Update">
   <img src="https://img.shields.io/badge/Currently%20solving-level%203-yellow" alt="Progress">
 </p>
