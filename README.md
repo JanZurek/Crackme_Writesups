@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Reverse%20Engineering-Ghidra-blue?logo=ghidra" alt="Ghidra">
   <img src="https://img.shields.io/github/last-commit/TwojNick/Crackme-Writeups?color=green" alt="Last Update">
-  <img src="https://img.shields.io/badge/Currently%20solving-level%203-yellow" alt="Progress">
+  <img src="https://img.shields.io/badge/Currently%20solving-level%201-green" alt="Progress">
 </p>
 
 <p align="center">
