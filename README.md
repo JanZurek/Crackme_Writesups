@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  Dokumentuję tutaj moje rozwiązania crackme z <a href="https://crackmes.one">crackmes.one</a>, <a href="https://challenges.re">challenges.re</a>, Flare-On, Pwnable itp.<br>
-  Głównie używam <strong>Ghidra</strong>, <strong>x64dbg</strong>, <strong>Cutter</strong> i czasem <strong>angr</strong> / <strong>frida</strong>.
+  Dokumentuję tutaj moje rozwiązania crackme z <a href="https://crackmes.one">crackmes.one</a><br>
+  Głównie używam <strong>Ghidra</strong>, <strong>x64dbg</strong>.
 </p>
 
 ---
@@ -16,9 +16,7 @@
 ## 📊 Progres (stan na luty 2026)
 
 | Poziom       | Liczba rozwiązanych | Najtrudniejszy dotychczas          | Status     |
-|--------------|----------------------|-------------------------------------|------------|
-| Level 1      | 12                   | VeryEasy Serial                     | ✅ Zrobione |
-| Level 2      | 7                    | Crackme by LCF                      | W trakcie  |
-| Level 3+     | 2                    | Keygenme #1984                      | 🏗️ Start   |
-| Anti-Debug   | 3                    | —                                   | Rozpoczęte |
-| VM / packer  | 0                    | —                                   | Planowane  |
+|--------------|----------------------|-------------------------------------|--------------|
+| Level 1      | 1                    | --                                  | ✅ Zrobione |
+| Level 2      | 0                    | --                                  | --           |
+| Level 3+     | 0                    | --                                  | --           |
