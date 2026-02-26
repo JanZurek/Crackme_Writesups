@@ -26,10 +26,14 @@ Po wpisaniu albo wyświetla komunikat o sukcesie, albo zamyka się / wyświetla 
 
 2. Otworzyłem plik w Ghidrze po czym odrazu przeszedłem do window --> defined strings
 3. Przeglądając liste stringów znalazłem m.in.:
-   "Congrats!!! You Cracked The Code" 
-   "Please Enter The Password:"`
+   "Congrats!!! You Cracked The Code"
+   
+   "Please Enter The Password:"
+   
    "Wrong Passowrd, Please Try Again:"
+   
    Oraz string który odrazu przykuł moją uwagę:
+   
    "EasyPassword"
    
 <img width="395" height="13" alt="image" src="https://github.com/user-attachments/assets/9b16a032-7755-48f9-bf18-f4d66ade9fad" />
