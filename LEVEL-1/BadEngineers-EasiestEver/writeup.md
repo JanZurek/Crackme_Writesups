@@ -52,14 +52,18 @@ Po błędnym → komunikat błędu i prośba o ponowną próbę.
 Zauważyłem że funckja wykonuje pętle o maksymalnej długości dla łancucha znaków 16, która po kolei warunkuje zakres poprawnych do użycia cyfr, liczb i znaków za pomocą tabeli kodów ASCII i kążdy z zakresów musi zostać użyty chociaż raz.
 Zakres ten wynosi następująco:
 
--Dla warunku 1 {0,1,2,3,4} 0x30-0x34 HEX
--Dla warunku 2 {H,I,J,K,L,N} 0x48 - 0x4E HEX
--Dla warunku 3 {t,u,v,w,x,y} 0x61 - 0x66 HEX
--Dla warunku 4 {!,",#,$,%,&}	0x21 - 0x26
--Dla warunku 5 {;,<,=,>,?}	0x3B - 0x3F
--Dla warunku 6 {j,k,l,m}	0x6A - 0x6D
--Dla warunku 7 {z,{,|,}	0x7A - 0x7D
--Dla warunku 8 {o,p,q,r,s}	0x6F - 0x73
+| Warunek | Znaki (ASCII) | Zakres HEX | Licznik (Ghidra) |
+| :--- | :--- | :--- | :--- |
+| **1** | `0, 1, 2, 3, 4` | `0x30 - 0x34` | `local_20` |
+| **2** | `H, I, J, K, L, M, N` | `0x48 - 0x4E` | `local_28` |
+| **3** | `t, u, v, w, x, y` | `0x74 - 0x79` | `local_30` |
+| **4** | `a, b, c, d, e, f` | `0x61 - 0x66` | `local_38` |
+| **5** | `!, ", #, $, %, &` | `0x21 - 0x26` | `local_40` |
+| **6** | `; , < , = , > , ?` | `0x3B - 0x3F` | `local_48` |
+| **7** | `j, k, l, m` | `0x6A - 0x6D` | `local_50` |
+| **8** | `z, {, \|, }` | `0x7A - 0x7D` | `local_58` |
+| **9** | `o, p, q, r, s` | `0x6F - 0x73` | `local_60` |
+| **10** | `\, ], ^, _` | `0x5C - 0x5F` | `local_68` |
 
 ## Kluczowy fragmenty kodu (dekompilacja Ghidry)
 
