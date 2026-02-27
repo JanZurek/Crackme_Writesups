@@ -17,6 +17,6 @@
 
 | Poziom       | Liczba rozwiązanych | Najtrudniejszy dotychczas          | Status     |
 |--------------|----------------------|-------------------------------------|--------------|
-| Level 1      | 1                    | --                                  | ✅ Zrobione |
+| Level 1      | 2                    | --                                  | ✅ Zrobione |
 | Level 2      | 0                    | --                                  | --           |
 | Level 3+     | 0                    | --                                  | --           |
