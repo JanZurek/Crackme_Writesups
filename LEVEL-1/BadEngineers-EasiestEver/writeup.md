@@ -1,7 +1,7 @@
 # CrackMe Level 1.0 – Kanax01-Fixed-Easy-crackme
 
 **Źródło:** [crackmes.one  ](https://crackmes.one/crackme/697fd52a16739b40dcb5dabd)
-**Poziom:** 1.7 – 
+**Poziom:** 1.7 
 **Platforma:** Windows  
 **Język:** C/C++  
 **Architektura:** x86-64  
