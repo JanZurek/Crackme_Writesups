@@ -1,4 +1,4 @@
-# CrackMe Level 1.0 – Kanax01-Fixed-Easy-crackme
+# CrackMe Level 1.7 – Kanax01-Fixed-Easy-crackme
 
 **Źródło:** [crackmes.one  ](https://crackmes.one/crackme/697fd52a16739b40dcb5dabd)  
 **Poziom:** 1.7  
