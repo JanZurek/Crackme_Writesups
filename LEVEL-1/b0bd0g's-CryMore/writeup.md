@@ -1,6 +1,6 @@
 # CrackMe Level 1.0 – Kanax01-Fixed-Easy-crackme
 
-**Źródło:** [crackmes.one](https://crackmes.one/crackme/698d2206e2ba6023bfacaa4f)  
+**Źródło:** [crackmes.one](https://crackmes.one/crackme/69778aa352ed08086d855c77)  
 **Poziom:** 1.3
 **Platforma:** Multiplatform  
 **Język:** C/C++  
@@ -21,7 +21,8 @@
    - "Malware succesfully neutralized. Good Job."   
 
    
-<img width="1439" height="31" alt="image" src="https://github.com/user-attachments/assets/0d8d11c9-1a28-43aa-97f0-ea1fb077c9fc" />
+<img width="894" height="69" alt="image" src="https://github.com/user-attachments/assets/698fe9a5-a84f-41e3-ba43-c5e91efbf813" />
+
 
 
 3. Stringi odnoszące się do malwaru były komunikatami w funckcji main a string który zwrócił moją uwagę był adres IP. Był on używany w zmiennej a sama ta zmienna była wykorzystywana
